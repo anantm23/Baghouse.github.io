@@ -160,7 +160,7 @@
 
       <div class="mySlides fade">
   	<div class="numbertext">3 / 3</div>
-  	  <img src="https://raw.githubusercontent.com/anantm23/HTML-Project/main/Timus.jpg?token=ART275LS5FYQZEQPOSDF6NC73J45M" width="1500" height="650">
+  	  <img src="https://raw.githubusercontent.com/anantm23/Html-Files/main/Timus.jpg" width="1500" height="650">
   	<div class="text">Travel the World with Timus</div>
       </div>
 
